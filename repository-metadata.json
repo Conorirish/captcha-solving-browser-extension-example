@@ -14,5 +14,7 @@
     "qa-automation"
   ],
   "utm": "https://www.capsolver.com/?utm_source=github&utm_medium=referral&utm_campaign=captcha-solving-browser-extension-example&utm_content=repository-readme",
-  "publish_status": "not_published"
+  "owner": "Conorirish",
+  "repository_url": "https://github.com/Conorirish/captcha-solving-browser-extension-example",
+  "publish_status": "published"
 }

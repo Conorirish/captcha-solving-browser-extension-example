@@ -12,6 +12,11 @@
   "terminology_scan": "zero prohibited matches in content and paths",
   "remote_exact_slug_matches": 0,
   "live_api_call": false,
-  "publish_status": "not_published",
+  "publish_status": "published",
+  "owner": "Conorirish",
+  "repository_url": "https://github.com/Conorirish/captcha-solving-browser-extension-example",
+  "initial_commit": "d6fdd0bd18234ee22e1cb5b5c89cbe61f0350af2",
+  "actions_status": "tests completed successfully",
+  "temporary_deploy_key": "revoked after initial push",
   "runtime_limit": "fixture-first; no live browser target or CapSolver API call was executed"
 }
