@@ -1,0 +1,18 @@
+{
+  "slug": "captcha-solving-browser-extension-example",
+  "title": "CAPTCHA Solving for Browser Extensions",
+  "description": "Manifest V3 and Node.js companion-service example for authorized CAPTCHA solving QA without exposing API keys in the extension.",
+  "visibility": "public",
+  "default_branch": "main",
+  "keyword_record": 49,
+  "topics": [
+    "browser-extension",
+    "manifest-v3",
+    "captcha-solving",
+    "nodejs",
+    "security",
+    "qa-automation"
+  ],
+  "utm": "https://www.capsolver.com/?utm_source=github&utm_medium=referral&utm_campaign=captcha-solving-browser-extension-example&utm_content=repository-readme",
+  "publish_status": "not_published"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "READY_FOR_REVIEW",
+  "checked_at": "2026-11-02",
+  "keyword_record": 49,
+  "keyword": "CAPTCHA solving for browser extensions dev",
+  "unit_tests": "5/5 passed",
+  "smoke_test": "passed",
+  "manifest_parse": "passed",
+  "repository_validator": "passed",
+  "official_link_check": "passed",
+  "secret_scan": "passed",
+  "terminology_scan": "zero prohibited matches in content and paths",
+  "remote_exact_slug_matches": 0,
+  "live_api_call": false,
+  "publish_status": "not_published",
+  "runtime_limit": "fixture-first; no live browser target or CapSolver API call was executed"
+}

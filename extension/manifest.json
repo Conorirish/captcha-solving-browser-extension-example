@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Authorized QA CAPTCHA Fixture",
+  "version": "0.1.0",
+  "description": "Fixture-only example for an owned QA page.",
+  "permissions": ["activeTab"],
+  "host_permissions": ["http://127.0.0.1:8787/*", "http://qa.localhost/*"],
+  "background": {"service_worker": "background.js", "type": "module"},
+  "content_scripts": [{
+    "matches": ["http://qa.localhost/*"],
+    "js": ["content.js"],
+    "run_at": "document_idle"
+  }]
+}
